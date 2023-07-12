@@ -1,0 +1,43 @@
+*{
+  martgin:0;
+
+
+}
+
+
+
+.wrapper{
+
+display: flex;
+padding: 80px;
+align-items: center;
+justify-content:center;
+
+
+
+}
+
+.card{
+   width: 200px;
+   border-radius: 3px;
+    border:  solid 2px ;
+    margin: 20px;
+    padding: 10px;
+    text-align: center;
+   
+    
+    
+}
+
+.card-img{
+  width:150px;
+  height: 150px;
+  align-items: center;
+  align-items: center;
+}
+
+.card-titulo{
+    font-family: sans-serif;
+}
+
+
